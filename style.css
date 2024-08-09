@@ -1,9 +1,20 @@
-{
+*{
     margin: 10px;
     padding: 10px;
+}
+.body{
+    font-family: 'Poppins', sans-serif;
+    background-color: aliceblue;
 }
 
 .imagem{
     border-image: 5%;
-    width: 65%;
+    width: 10%;
+}
+
+.cabeçalho-titulo{
+    display: flex;
+    font-size: large;
+    color: aqua;
+
 }
