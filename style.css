@@ -5,7 +5,7 @@
 .body{
     
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(251, 255, 172);
+    background-color: rgb(186, 255, 95);
 }
 
 .imagem{
@@ -19,7 +19,7 @@
 .cabeçalho-titulo{
     display: flex;
     font-size: 75px;
-    color: rgb(14, 121, 0);
+    color: rgb(0, 125, 193);
 
 }
 
