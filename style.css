@@ -5,13 +5,13 @@
 .body{
     
     font-family: 'Poppins', sans-serif;
-    background-color: rgb(186, 255, 95);
+    background-color: rgb(100, 255, 69);
 }
 
 .imagem{
     border-image: 10%;
     width: 70%;
-    border-color: aquamarine;
+    border-color: rgb(255, 53, 53);
     
 }
 
@@ -45,7 +45,7 @@
 
 .titulo2{
     font-size: 50px;
-    color: rgb(14, 121, 0);
+    color: rgb(249, 59, 59);
 }
 .lista{
     text-align: justify;
@@ -55,4 +55,10 @@
 .titulo3{
     font-size: 35px;
 }
+.referências{
+    font-size: 22px;
+}
 
+.tituloref{
+    font-size: 25px;
+}
